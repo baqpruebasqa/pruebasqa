@@ -1,5 +1,5 @@
 public class HolaMundo {
 	public static void main(String [] args){
-		logger.log("Hola Mundo");
+		System.println("Hola Mundo");
 	}
 }
